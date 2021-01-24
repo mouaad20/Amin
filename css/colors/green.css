@@ -1,0 +1,68 @@
+/* #0fbd0f */
+
+.section-title h1,
+.about .date,
+.portfolio-btn-item:hover{
+color: #ffffff;
+}
+h3.name span,
+h4.profession span,
+.nav-item-inner a i,
+.nav-item-inner a:hover,
+body.dark_style .nav-item-inner a:hover ,
+.your-name span,
+.specialty i,
+.service-info i,
+.service-item-inner:hover .service-info .service-title,
+.cetification-icon i,
+.certification-date i,
+.btn:hover,
+.statistics-item .statistics-item-inner span,
+.years_experience .number_years,
+.testimonial .profession,
+.testimonial-title,
+.contact-title,
+.contact-item i,
+footer .name,
+.icon_home i
+
+{
+color: #0fbd0f;
+}
+.btn:hover,
+.portfolio-btn-item,
+input:focus,
+textarea:focus,
+body.dark_style .contact input:focus,
+body.dark_style .contact textarea:focus
+{
+border: 1px solid #0fbd0f;
+}
+
+.personal-img::before
+{
+border-top: 10px solid   #0fbd0f;
+border-left: 10px solid #0fbd0f;
+}
+.personal-img::after{
+border-bottom: 10px solid  #0fbd0f;
+border-right: 10px solid  #0fbd0f;
+}
+
+.section-title,
+.btn,
+.skills-bar,
+.about .date,
+.service-item-inner:hover .service-info i,
+.btn,
+.active_btn,
+.portfolio-btn-item:hover
+
+{
+background: #0fbd0f;
+}
+
+.experience-title,
+.education-title{
+ border-bottom: 1px solid #0fbd0f;
+}
